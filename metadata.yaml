@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31655'
     url: http://www.gutenberg.org/2009/agents/31655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25905#The--100-Prize-Essay-on-the-Cultivation-of-the-Potato.--13-How-to-Cook-the-Potato-Furnished-b_
 gutenberg_issued: '2008-06-26'
 gutenberg_type: Text
 identifiers:
